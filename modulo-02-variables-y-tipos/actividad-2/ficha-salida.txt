@@ -1,0 +1,5 @@
+nombre estermatoide <class 'str'>
+ruedas 67 <class 'int'>
+diametro_ruedas 6.67 <class 'float'>
+bateria 100 <class 'int'>
+encendido True <class 'bool'>
