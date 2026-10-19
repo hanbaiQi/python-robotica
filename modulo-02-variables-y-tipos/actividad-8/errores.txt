@@ -1,2 +1,5 @@
 print('nombre_robot',nombre_robot, type(nombre_robot)))
 SyntaxError: unmatched ')'
+
+print('distancia',distancia concluida, type(distancia))
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
