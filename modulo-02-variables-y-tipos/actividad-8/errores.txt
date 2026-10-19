@@ -3,3 +3,6 @@ SyntaxError: unmatched ')'
 
 print('distancia',distancia concluida, type(distancia))
 SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
+print('encendido_robot',encendido_robot True, type(encendido_robot))
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
