@@ -1,0 +1,5 @@
+nombre_robot estermatoide <class 'str'>
+distancia 67 <class 'int'>
+encendido_robot True <class 'bool'>
+
+al final he eliminado los errores borrando las variables i parentesis que sobraban, entonces, el resultado final funciona todo bien i no sale ningun error.
