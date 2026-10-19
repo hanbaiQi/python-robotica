@@ -1,0 +1,5 @@
+nombre estermatoide <class 'str'>
+anio 6767 <class 'int'>
+altura_cm 67.67 <class 'float'>
+autonomo True <class 'bool'>
+VERSION_ESPERADA v1.0 <class 'str'>
