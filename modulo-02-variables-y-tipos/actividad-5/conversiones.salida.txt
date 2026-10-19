@@ -1,0 +1,3 @@
+67 <class 'int'>
+67.67 <class 'float'>
+67 <class 'int'>
