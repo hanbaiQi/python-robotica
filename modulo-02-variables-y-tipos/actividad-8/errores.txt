@@ -1,0 +1,2 @@
+print('nombre_robot',nombre_robot, type(nombre_robot)))
+SyntaxError: unmatched ')'
