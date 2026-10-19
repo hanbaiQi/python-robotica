@@ -1,3 +1,7 @@
-67 <class 'int'>
-67.67 <class 'float'>
-67 <class 'int'>
+texto_entero <class 'str'>
+texto_decimal <class 'str'>
+numero <class 'int'>
+
+texto_entero <class 'int'>
+texto_decimal <class 'float'>
+numero <class 'str'>
