@@ -1,0 +1,5 @@
+['adelante', 'izquierda', 'adelante', 'parar']
+4
+adelante
+izquierda
+parar
