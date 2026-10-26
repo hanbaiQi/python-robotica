@@ -1,0 +1,1 @@
+['ultrasensores', 'infrarrojos', 'luz', 'temperatura'] <class 'list'>
