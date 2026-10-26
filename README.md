@@ -61,11 +61,10 @@ Se aplican a todas las actividades. Los pesos concretos de cada actividad están
 
 | Criterio | Peso |
 |---|---|
-| El programa funciona y cumple el enunciado | 50 % |
-| Código claro: nombres buenos, sin repetir, funciones cortas | 20 % |
-| Comentarios | 10 % |
-| Commits y carpetas bien organizados | 10 % |
-| Conversación de IA subida, si la has usado | 10 % |
+| El programa funciona y cumple el enunciado | 56 % |
+| Código claro: nombres buenos, sin repetir, funciones cortas | 22 % |
+| Commits y carpetas bien organizados | 11 % |
+| Conversación de IA subida, si la has usado | 11 % |
 
 ## El proyecto final
 
