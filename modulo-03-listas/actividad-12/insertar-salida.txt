@@ -1,0 +1,2 @@
+['adelante', 'adelante', 'derecha', 'parar']
+['adelante', 'adelante', 'izquierda', 'derecha', 'parar']
