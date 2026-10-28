@@ -1,0 +1,2 @@
+['ultrasonidos', 'infrarrojos', 'luz', 'temperatura']
+['ultrasonidos', 'infrarrojos', 'temperatura']
