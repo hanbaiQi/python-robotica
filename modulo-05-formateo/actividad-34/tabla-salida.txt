@@ -1,0 +1,3 @@
+ultrasonidos 40.0 ########
+infrarrojos 12.0 ##
+luz 7.0 #
